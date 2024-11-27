@@ -1,0 +1,6 @@
+langchain
+black
+pypdf
+langchain-community
+langchainhub
+faiss-cpu
